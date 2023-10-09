@@ -86,7 +86,7 @@ Perform compatibility check:
 
 ![quadreaOfHyperbolicProjectiveQuadranglelProofPart_1_39.png](HTMLFiles/quadreaOfHyperbolicProjectiveQuadranglelProofPart_1_39.png)
 
-The next cell may take a long time to execute since the q’s and the S’s in the “res” equation are being substituted with the x’s, y’s and z’s in the q’s and S’s expressions above and the whole thing is being factored. A result of zero indicates that the criteria for compatible equations in the quadratic compatibility theorem has been met.
+The next cell may take a long time to execute since the q’s and the S’s in the “ArchimedesFn” equation are being substituted with the x’s, y’s and z’s in the q’s and S’s expressions above and the whole thing is being factored. A result of zero indicates that the criteria for compatible equations in the quadratic compatibility theorem has been met.
 
 ![quadreaOfHyperbolicProjectiveQuadranglelProofPart_1_40.png](HTMLFiles/quadreaOfHyperbolicProjectiveQuadranglelProofPart_1_40.png)
 
